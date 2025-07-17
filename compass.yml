@@ -1,0 +1,16 @@
+name: system-design-diagrams
+id: ari:cloud:compass:87640a09-898c-4e1b-b8aa-ace7e8ee7333:component/a08363be-fa25-4f7e-9df6-bf555fa3eaca/93d0a4b9-0545-48b9-aeb8-c3062b2d0671
+description: Repository for storing system architecture diagrams, process flows, BPMN, draw.io XML, and mermaid files for project.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/bu8-cwn/system-design-diagrams
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
